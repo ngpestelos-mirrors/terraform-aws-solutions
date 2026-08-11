@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.0](https://github.com/terraform-aws-modules/terraform-aws-solutions/compare/v1.1.0...v1.2.0) (2026-08-11)
+
+
+### Features
+
+* Update python runtime from 3.10 to 3.14 ([#4](https://github.com/terraform-aws-modules/terraform-aws-solutions/issues/4)) ([0a65630](https://github.com/terraform-aws-modules/terraform-aws-solutions/commit/0a656303445d5e818df8da91c7767c326fa7e942))
+
 ## [1.1.0](https://github.com/terraform-aws-modules/terraform-aws-solutions/compare/v1.0.0...v1.1.0) (2023-06-28)
 
 
